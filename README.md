@@ -52,6 +52,12 @@ For **icons**, I chose to use Font Awesome imported from their CDN rather than d
 
 The layout, built with **Grid** and **Flexbox**, offers flexibility and a modern look. The cards have rounded corners and a soft shadow that adds depth without being too obvious. The timeline with dots and vertical connections helps to understand the chronological order in a simple way. Finally, generous spacing (padding, margins, and gap) makes it easy to process.
 
+## Website Link
+
+[antonposamun10.site](https://antonposamun10.site) *(I hope you appreciate the domain name I just bought only for this project 🤣)*
+
+**Backup URL:** [justacoderlol.github.io](https://justacoderlol.github.io) *(in case the main one doesn't work for some reason)*
+
 ## Figma Project Link
 
 [View prototype the website is based on](https://www.figma.com/design/17GfYa0s13QJH3xlPWELPX/CV-Website?node-id=0-1&t=o0oU5nMoKFLIECm3-1)
