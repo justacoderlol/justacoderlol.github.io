@@ -56,6 +56,6 @@ The layout, built with **Grid** and **Flexbox**, offers flexibility and a modern
 
 [View prototype the website is based on](https://www.figma.com/design/17GfYa0s13QJH3xlPWELPX/CV-Website?node-id=0-1&t=o0oU5nMoKFLIECm3-1)
 
-![Figma Design Preview](figma_design.png)
-
 **Note:** The link is view-only. I haven't enabled editing permissions because this repository is public. If you (Anton) need edit access, please send me an email.
+
+![Figma Design Preview](figma_design.png)
